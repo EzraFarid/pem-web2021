@@ -1,0 +1,154 @@
+/* screen - iphone-13-13-pro-18 */
+
+.iphone-13-13-pro-18 {
+  align-items: center;
+  background-color: var(--japanese-laurel);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  width: 390px;
+}
+
+.iphone-13-13-pro-18 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--web-orange);
+  border-radius: 35px;
+  display: flex;
+  height: 404px;
+  min-width: 390px;
+  padding: 45px 0;
+}
+
+.iphone-13-13-pro-18 .toyota-logos-brands-10-1 {
+  height: 276px;
+  object-fit: cover;
+  width: 390px;
+}
+
+.iphone-13-13-pro-18 .jawaban-logo {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 52px;
+  min-height: 281px;
+  width: 366px;
+}
+
+.iphone-13-13-pro-18 .ellipse-1 {
+  background-color: var(--mist-gray);
+  border-radius: 0.5px;
+  height: 1px;
+  margin-left: 3px;
+  width: 1px;
+}
+
+.iphone-13-13-pro-18 .jawaban-pu-container {
+  height: 240px;
+  margin-top: 40px;
+  position: relative;
+  width: 368px;
+}
+
+.iphone-13-13-pro-18 .jawaban-pu {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 100px;
+  left: 0;
+  min-width: 162px;
+  position: absolute;
+  top: 0;
+}
+
+.iphone-13-13-pro-18 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  display: flex;
+  min-width: 160px;
+}
+
+.iphone-13-13-pro-18 .place {
+  height: 100px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 160px;
+}
+
+.iphone-13-13-pro-18 .jawaban-pu-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 240px;
+  left: 0;
+  min-width: 368px;
+  position: absolute;
+  top: 0;
+}
+
+.iphone-13-13-pro-18 .overlap-group2 {
+  height: 100px;
+  margin-bottom: 7px;
+  position: relative;
+  width: 160px;
+}
+
+.iphone-13-13-pro-18 .rectangle-8 {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  cursor: pointer;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.iphone-13-13-pro-18 .bmw {
+  height: 100px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 160px;
+}
+
+.iphone-13-13-pro-18 .jawaban-pu-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 42px;
+  min-height: 240px;
+  width: 166px;
+}
+
+.iphone-13-13-pro-18 .jawaban-pu-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 162px;
+}
+
+.iphone-13-13-pro-18 .honda {
+  height: 100px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 160px;
+}
+
+.iphone-13-13-pro-18 .overlap-group1 {
+  height: 100px;
+  margin-top: 40px;
+  position: relative;
+  width: 164px;
+}
+
+.iphone-13-13-pro-18 .audi {
+  height: 100px;
+  left: 4px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 160px;
+}

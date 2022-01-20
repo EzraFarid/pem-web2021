@@ -1,0 +1,103 @@
+/* screen - iphone-13-13-pro-64 */
+
+.iphone-13-13-pro-64 {
+  align-items: center;
+  background-color: #440064;
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  width: 390px;
+}
+
+.iphone-13-13-pro-64 .terimakasih-atas-partisipanya {
+  height: 205px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 390px;
+}
+
+.iphone-13-13-pro-64 .fococlipping-20220120-152518-1 {
+  height: 420px;
+  margin-left: 0.13px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 272px;
+}
+
+.iphone-13-13-pro-64 .tolong-subscribe-ya {
+  height: 58px;
+  letter-spacing: 0;
+  margin-top: 36px;
+  text-align: center;
+  width: 200px;
+}
+
+.iphone-13-13-pro-64 .group-container {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 14px;
+  margin-top: 13px;
+  min-width: 319px;
+}
+
+.iphone-13-13-pro-64 .group-7 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 142px;
+}
+
+.iphone-13-13-pro-64 .overlap-group {
+  height: 93px;
+  position: relative;
+  width: 140px;
+}
+
+.iphone-13-13-pro-64 .youtube-logo-hd-8-1 {
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 91px;
+}
+
+.iphone-13-13-pro-64 .ezrafarid {
+  color: var(--white);
+  font-family: var(--font-family-mina);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 35px;
+  left: 81px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 29px;
+  width: 59px;
+}
+
+.iphone-13-13-pro-64 .group-6 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 72px;
+  min-width: 105px;
+}
+
+.iphone-13-13-pro-64 .logo-ig-instagram-ne {
+  height: 35px;
+  object-fit: cover;
+  width: 33px;
+}
+
+.iphone-13-13-pro-64 .ezra_fr {
+  color: var(--white);
+  font-family: var(--font-family-mina);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0;
+  margin-bottom: 1.0px;
+  margin-left: 10px;
+  min-width: 60px;
+}

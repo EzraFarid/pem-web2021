@@ -1,0 +1,122 @@
+/* screen - iphone-13-13-pro-10 */
+
+.iphone-13-13-pro-10 {
+  align-items: flex-start;
+  background-color: var(--red);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  width: 390px;
+}
+
+.iphone-13-13-pro-10 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--sea-serpent);
+  border-radius: 35px;
+  display: flex;
+  min-width: 390px;
+}
+
+.iphone-13-13-pro-10 .dimanakah-perjanjian {
+  height: 404px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 390px;
+}
+
+.iphone-13-13-pro-10 .ellipse-1 {
+  background-color: var(--mist-gray);
+  border-radius: 0.5px;
+  height: 1px;
+  margin-left: 15px;
+  margin-top: 40px;
+  width: 1px;
+}
+
+.iphone-13-13-pro-10 .overlap-group3 {
+  align-self: center;
+  height: 240px;
+  margin-right: 2.0px;
+  margin-top: 40px;
+  position: relative;
+  width: 364px;
+}
+
+.iphone-13-13-pro-10 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  height: 100px;
+  left: 0;
+  min-width: 160px;
+  position: absolute;
+  top: 0;
+}
+
+.iphone-13-13-pro-10 .link {
+  cursor: pointer;
+  height: 100px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 160px;
+}
+
+.iphone-13-13-pro-10 .jawaban-pu {
+  align-items: flex-end;
+  display: flex;
+  height: 240px;
+  left: 0;
+  min-width: 364px;
+  position: absolute;
+  top: 0;
+}
+
+.iphone-13-13-pro-10 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  margin-bottom: 7px;
+  min-width: 160px;
+}
+
+.iphone-13-13-pro-10 .jawaban-pu-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 42px;
+  min-height: 240px;
+  width: 162px;
+}
+
+.iphone-13-13-pro-10 .jawaban-pu-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 162px;
+}
+
+.iphone-13-13-pro-10 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  min-width: 160px;
+}
+
+.iphone-13-13-pro-10 .diatas-kapal {
+  height: 100px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 160px;
+}
+
+.iphone-13-13-pro-10 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  margin-top: 40px;
+  min-width: 160px;
+}

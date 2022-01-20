@@ -1,0 +1,50 @@
+:root { 
+  --black: #000000;
+  --cerulean: #04a6d9;
+  --japanese-laurel: #009f06;
+  --mist-gray: #c4c4c4;
+  --red: #ff0000;
+  --sea-serpent: #4dc3dd;
+  --silver-chalice: #aeacac;
+  --unmellow-yellow: #0738e6;
+  --web-orange: #ffa800;
+  --white: #ffffff;
+ 
+  --font-size-l: 36px;
+  --font-size-m: 24px;
+  --font-size-s: 14px;
+ 
+  --font-family-merriweather: "Merriweather", Helvetica;
+  --font-family-mina: "Mina", Helvetica;
+}
+.mina-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-mina);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.merriweather-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mina-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-mina);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mina-normal-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-mina);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
