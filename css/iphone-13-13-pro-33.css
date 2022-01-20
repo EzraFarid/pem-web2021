@@ -1,0 +1,66 @@
+/* screen - iphone-13-13-pro-33 */
+
+.iphone-13-13-pro-33 {
+  align-items: flex-end;
+  background-color: #440064;
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  padding: 172.5px 9px;
+  width: 390px;
+}
+
+.iphone-13-13-pro-33 .quizz-sudah-selesai {
+  align-self: center;
+  height: 134px;
+  margin-right: 2.0px;
+  width: 234px;
+}
+
+.iphone-13-13-pro-33 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 212px;
+  min-width: 360px;
+}
+
+.iphone-13-13-pro-33 .overlap-group {
+  height: 96px;
+  position: relative;
+  width: 171px;
+}
+
+.iphone-13-13-pro-33 .rectangle-10 {
+  cursor: pointer;
+  height: 96px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 171px;
+}
+
+.iphone-13-13-pro-33 .no {
+  height: 22px;
+  left: 64px;
+  position: absolute;
+  top: 37px;
+  width: 40px;
+}
+
+.iphone-13-13-pro-33 .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/rectangle-11@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 96px;
+  justify-content: flex-end;
+  margin-left: 18px;
+  min-width: 171px;
+  padding: 0 58px;
+}
+
+.iphone-13-13-pro-33 .yes {
+  cursor: pointer;
+  height: 23px;
+  width: 50px;
+}

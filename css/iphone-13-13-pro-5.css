@@ -1,0 +1,153 @@
+/* screen - iphone-13-13-pro-5 */
+
+.iphone-13-13-pro-5 {
+  align-items: center;
+  background-color: var(--web-orange);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  width: 390px;
+}
+
+.iphone-13-13-pro-5 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--japanese-laurel);
+  border-radius: 35px;
+  display: flex;
+  min-width: 390px;
+}
+
+.iphone-13-13-pro-5 .apa-arti-tulisan-di-kepala-gaara {
+  height: 404px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 390px;
+}
+
+.iphone-13-13-pro-5 .jawaban-logo {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 18px;
+  min-height: 281px;
+  width: 366px;
+}
+
+.iphone-13-13-pro-5 .ellipse-1 {
+  background-color: var(--mist-gray);
+  border-radius: 0.5px;
+  height: 1px;
+  margin-left: 3px;
+  width: 1px;
+}
+
+.iphone-13-13-pro-5 .jawaban-pu-container {
+  height: 240px;
+  margin-top: 40px;
+  position: relative;
+  width: 368px;
+}
+
+.iphone-13-13-pro-5 .jawaban-pu {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 100px;
+  left: 0;
+  min-width: 162px;
+  position: absolute;
+  top: 0;
+}
+
+.iphone-13-13-pro-5 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  display: flex;
+  min-width: 160px;
+}
+
+.iphone-13-13-pro-5 .kebijaksanaan {
+  height: 100px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 160px;
+}
+
+.iphone-13-13-pro-5 .jawaban-pu-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 240px;
+  left: 0;
+  min-width: 368px;
+  position: absolute;
+  top: 0;
+}
+
+.iphone-13-13-pro-5 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  display: flex;
+  margin-bottom: 7px;
+  min-width: 160px;
+}
+
+.iphone-13-13-pro-5 .naruto {
+  cursor: pointer;
+  height: 100px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 160px;
+}
+
+.iphone-13-13-pro-5 .jawaban-pu-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 42px;
+  min-height: 240px;
+  width: 166px;
+}
+
+.iphone-13-13-pro-5 .jawaban-pu-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 162px;
+}
+
+.iphone-13-13-pro-5 .place {
+  height: 100px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 160px;
+}
+
+.iphone-13-13-pro-5 .overlap-group1 {
+  height: 100px;
+  margin-top: 40px;
+  position: relative;
+  width: 164px;
+}
+
+.iphone-13-13-pro-5 .rectangle-8 {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.iphone-13-13-pro-5 .cinta {
+  cursor: pointer;
+  height: 100px;
+  left: 4px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 160px;
+}

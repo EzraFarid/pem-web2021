@@ -1,0 +1,49 @@
+/* screen - iphone-13-13-pro-44 */
+
+.iphone-13-13-pro-44 {
+  align-items: center;
+  background-color: var(--silver-chalice);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  padding: 172px 0;
+  width: 390px;
+}
+
+.iphone-13-13-pro-44 .x372107370_cross_mark_400-1 {
+  height: 250px;
+  object-fit: cover;
+  width: 306px;
+}
+
+.iphone-13-13-pro-44 .ups-jawban-anda-salah {
+  height: 100px;
+  letter-spacing: 0;
+  margin-top: 20px;
+  text-align: center;
+  width: 230px;
+}
+
+.iphone-13-13-pro-44 .jawaban-pu {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 20px;
+  min-width: 159px;
+}
+
+.iphone-13-13-pro-44 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--cerulean);
+  border-radius: 20px;
+  display: flex;
+  min-width: 157px;
+}
+
+.iphone-13-13-pro-44 .lanjut {
+  height: 39px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 157px;
+}
